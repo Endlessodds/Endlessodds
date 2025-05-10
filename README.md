@@ -13,7 +13,27 @@
 - 🔭 I’m currently working on **BANK SYSTEM USING QT** and **TRANSLATOR TOOL**
 - 🌱 I’m learning **ETHICAL HARKing** and **system design**
 - 💬 Ask me about C++, Python, or problem-solving
-- ⚡ Fun fact: I BREATH ZEROs AND ONEs!!! i do this for living l o l
+- ⚡ Fun fact: I BREATH ZEROs AND ONEs!!!
+██╗    ██████╗  ██████╗     ████████╗██╗  ██╗██╗███████╗                  
+██║    ██╔══██╗██╔═══██╗    ╚══██╔══╝██║  ██║██║██╔════╝                  
+██║    ██║  ██║██║   ██║       ██║   ███████║██║███████╗                  
+██║    ██║  ██║██║   ██║       ██║   ██╔══██║██║╚════██║                  
+██║    ██████╔╝╚██████╔╝       ██║   ██║  ██║██║███████║                  
+╚═╝    ╚═════╝  ╚═════╝        ╚═╝   ╚═╝  ╚═╝╚═╝╚══════╝                  
+                                                                          
+███████╗ ██████╗ ██████╗     ██╗     ██╗██╗   ██╗██╗███╗   ██╗ ██████╗    
+██╔════╝██╔═══██╗██╔══██╗    ██║     ██║██║   ██║██║████╗  ██║██╔════╝    
+█████╗  ██║   ██║██████╔╝    ██║     ██║██║   ██║██║██╔██╗ ██║██║  ███╗   
+██╔══╝  ██║   ██║██╔══██╗    ██║     ██║╚██╗ ██╔╝██║██║╚██╗██║██║   ██║   
+██║     ╚██████╔╝██║  ██║    ███████╗██║ ╚████╔╝ ██║██║ ╚████║╚██████╔╝▄█╗
+╚═╝      ╚═════╝ ╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝
+                                                                          
+██╗      ██████╗ ██╗                                                      
+██║     ██╔═══██╗██║                                                      
+██║     ██║   ██║██║                                                      
+██║     ██║   ██║██║                                                      
+███████╗╚██████╔╝███████╗                                                 
+╚══════╝ ╚═════╝ ╚══════╝                                                 
 
 ---
 
@@ -31,8 +51,8 @@
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Endlessodds&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Endlessodds&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -40,17 +60,18 @@
 ### 📊 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endlessodds&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
 ---
-
+<!-- 
 ### 💼 Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Caesar Cipher CLI](https://github.com/YourGitHubUsername/caesar-cipher-cpp) | A simple encryption/decryption tool using Caesar cipher | C++ |
-| [Python Task Automator](https://github.com/YourGitHubUsername/python-automation) | Automates repetitive tasks using Python scripts | Python |
+| [file name abenezer](https://github.com/Endlessodds/) | description | C++ |
+|
+ -->
 
 ---
 
