@@ -7,13 +7,18 @@
 </p>
 
 ---
+<p style="font-family: 'Georgia';">
 
-### 🧠 About Me
+  ### 🧠 About Me
 
 - 🔭 I’m currently working on **BANK SYSTEM USING QT** and **TRANSLATOR TOOL**
 - 🌱 I’m learning **ETHICAL HARKing** and **system design**
 - 💬 Ask me about C++, Python, or problem-solving
 - ⚡ Fun fact: I BREATH ZEROs AND ONEs!!!
+</p>
+
+
+  <pre>
 ██╗    ██████╗  ██████╗     ████████╗██╗  ██╗██╗███████╗                  
 ██║    ██╔══██╗██╔═══██╗    ╚══██╔══╝██║  ██║██║██╔════╝                  
 ██║    ██║  ██║██║   ██║       ██║   ███████║██║███████╗                  
@@ -34,7 +39,7 @@
 ██║     ██║   ██║██║                                                      
 ███████╗╚██████╔╝███████╗                                                 
 ╚══════╝ ╚═════╝ ╚══════╝                                                 
-
+</pre>
 ---
 
 ### 🛠️ Languages & Tools
@@ -79,8 +84,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/YourGitHubUsername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:abenezerkty@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Endlessodds"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -88,5 +93,5 @@
 ### 🖼️ Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YourGitHubUsername&theme=react-dark" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Endlessodds&theme=react-dark" alt="activity graph"/>
 </p>
