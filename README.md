@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">WELCOME TO MY WORLD 👋 </h1>
-<h3 align="center">A passionate C++ and Python developer</h3>
+<h3 align="center">A C++ and Python developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Problem+Solver;C%2B%2B+%2F+Python+Developer;Lifelong+Learner" alt="Typing SVG" />
@@ -11,10 +11,9 @@
 
   ### 🧠 About Me
 
-- 🔭 I’m currently working on **BANK SYSTEM USING QT** and **TRANSLATOR TOOL**
-- 🌱 I’m learning **ETHICAL HARKing** and **system design**
-- 💬 Ask me about C++, Python, or problem-solving
-- ⚡ Fun fact: I BREATH ZEROs AND ONEs!!!
+- working on **BANK SYSTEM USING QT** and **TRANSLATOR TOOL**
+- learning **ETHICAL HARKing** and **system design**
+- Fun fact: I BREATH ZEROs AND ONEs!!!
 </p>
 
 
@@ -49,6 +48,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt" width="50" height="50"/>
+
 </p>
 
 ---
@@ -69,6 +70,8 @@
 </p>
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=Endlessodds&theme=onedark&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- 
 ### 💼 Projects
 
