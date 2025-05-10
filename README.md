@@ -11,9 +11,9 @@
 ### 🧠 About Me
 
 - 🔭 I’m currently working on **BANK SYSTEM USING QT** and **TRANSLATOR TOOL**
-- 🌱 I’m learning **ETHICAL HARKER** and **system design**
+- 🌱 I’m learning **ETHICAL HARKing** and **system design**
 - 💬 Ask me about C++, Python, or problem-solving
-- ⚡ Fun fact: I BREATH ZEROs AND ONEs!!!
+- ⚡ Fun fact: I BREATH ZEROs AND ONEs!!! i do this for living l o l
 
 ---
 
