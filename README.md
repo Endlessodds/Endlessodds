@@ -57,8 +57,8 @@
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Endlessodds&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Endlessodds&theme=tokyonight" alt="GitHub Streak"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=xxxx&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=xxxx&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -66,11 +66,10 @@
 ### 📊 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endlessodds&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxx&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=Endlessodds&theme=onedark&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- 
 ### 💼 Projects
@@ -92,4 +91,5 @@
 </p>
 
 ---
+<hr style="height: 4px; border: none; background: linear-gradient(to right, #f00, #f90, #ff0, #0f0, #0ff, #00f, #90f); margin: 20px 0;" />
 
