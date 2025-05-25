@@ -14,7 +14,7 @@
 
 - working on **BANK SYSTEM USING QT** and **TRANSLATOR TOOL**
 - learning **Ethical Hacking** and **System design**
-- Fun fact: I BREATH ZEROs AND ONEs!!!
+
 </p>
 
 
