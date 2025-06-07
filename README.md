@@ -14,6 +14,7 @@
 
 - working on **BANK SYSTEM USING QT** and **TRANSLATOR TOOL**
 - learning **Ethical Hacking** and **System design**
+- *Portfolio:* https://endlessodds.netlify.app/
 
 </p>
 
